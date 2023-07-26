@@ -1,0 +1,5 @@
+The TransformerFromScratch project in the ahmadrezabaqerzade/TransformerFromScratch repository on GitHub includes an implementation of the Transformer model using the PyTorch library. This implementation consists of a Jupyter Notebook named Transformer.ipynb, which is interactive and can be used as a learning resource and reference for those interested in natural language processing and machine translation.
+
+In this implementation, the Transformer model is introduced using neural networks with convolutional layers in the field of natural language processing. Then, a complete implementation of this model is provided using the PyTorch library. This implementation includes functions for training the model and predicting the model's output for test data. Additionally, techniques such as self-attention and multi-head attention have been used to improve the model's performance.
+
+This implementation can serve as a useful resource for training and implementing advanced Transformer models using the PyTorch library in various projects in the field of natural language processing.
